@@ -2,4 +2,3 @@ pytest
 playwright
 pytest-html
 
-pip install requirements.txt
